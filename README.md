@@ -21,7 +21,7 @@ Make sure you have Python installed on your machine. You can download it from [p
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/temperature-converter.git
+   git clone https://github.com/abdul-1432/Temperature-Converter/tree/main
    ```
 
 2. Navigate to the project directory:
