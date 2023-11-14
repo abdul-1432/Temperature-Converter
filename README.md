@@ -12,10 +12,6 @@ Welcome to the Temperature Converter repository! This simple Python script allow
 
 ## Getting Started
 
-### Prerequisites
-
-Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
-
 ### Installation
 
 1. Clone the repository to your local machine:
